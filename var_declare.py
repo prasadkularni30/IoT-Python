@@ -1,0 +1,9 @@
+a="krushna"
+b="prasad"
+c='a'
+d=4
+e=5.6
+print("string:",a,b)
+print("char:",c)
+print("int:",d)
+print("float:",e)
