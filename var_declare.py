@@ -12,5 +12,11 @@ print("int:",d)
 print(type(d))
 print("float:",e)
 print(type(e))
+#print(nmae)
 print("Bool: ",status)
 print(type(status))
+
+"""
+variable declaration program
+
+"""
